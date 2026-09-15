@@ -1,0 +1,47 @@
+[
+  {
+    "name": "<TASK_NAME>",
+    "subject_keyword": "<SUBJECT_KEYWORD>",
+    "sender_keyword": "<SENDER_KEYWORD>",
+    "body_keyword": "<BODY_KEYWORD>",
+    "days_back": 1,
+    "unread_only": false,
+    "folder_path": [
+      "<EMAIL_ACCOUNT>",
+      "Inbox",
+      "<SOURCE_FOLDER>",
+      "<SUBFOLDER>"
+    ],
+    "save_dir": "<LOCAL_SAVE_DIRECTORY>",
+    "allowed_ext": null,
+    "mark_as_read": false,
+    "skip_inline": true,
+    "extract_zip": true,
+    "password": [
+      "<PASSWORD_1>",
+      "<PASSWORD_2>"
+    ]
+  },
+  {
+    "name": "<TASK_NAME_2>",
+    "subject_keyword": "<SUBJECT_KEYWORD_2>",
+    "sender_keyword": "<SENDER_KEYWORD_2>",
+    "body_keyword": "<BODY_KEYWORD_2>",
+    "days_back": 1,
+    "unread_only": false,
+    "folder_path": [
+      "<EMAIL_ACCOUNT>",
+      "Inbox",
+      "<SOURCE_FOLDER>",
+      "<SUBFOLDER>"
+    ],
+    "save_dir": "<LOCAL_SAVE_DIRECTORY_2>",
+    "allowed_ext": null,
+    "mark_as_read": false,
+    "skip_inline": true,
+    "extract_zip": true,
+    "password": [
+      "<PASSWORD_1>"
+    ]
+  }
+]
