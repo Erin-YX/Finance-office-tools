@@ -1,0 +1,29 @@
+{
+    "tasks": [
+        {
+            "name": "Bank_Balance_[BANK_A](C)",
+            "src_dir": "C:\\Users\\[USERNAME]\\Desktop\\[PROJECT]\\Bank_Balance_[BANK_A](C)",
+            "dst_dir": "C:\\Users\\[USERNAME]\\[COMPANY_NAME]\\[DEPARTMENT]\\[PROJECT]\\[BANK_A]\\[BANK_A](C) Daily Bank Balance"
+        },
+        {
+            "name": "Bank_Balance_[BANK_A](S)",
+            "src_dir": "C:\\Users\\[USERNAME]\\Desktop\\[PROJECT]\\Bank_Balance_[BANK_A](S)",
+            "dst_dir": "C:\\Users\\[USERNAME]\\[COMPANY_NAME]\\[DEPARTMENT]\\[PROJECT]\\[BANK_A]\\[BANK_A](S) Daily Bank Balance"
+        },
+        {
+            "name": "Bank_Balance_[BANK_B]",
+            "src_dir": "C:\\Users\\[USERNAME]\\Desktop\\[PROJECT]\\Bank_Balance_[BANK_B]",
+            "dst_dir": "C:\\Users\\[USERNAME]\\[COMPANY_NAME]\\[DEPARTMENT]\\[PROJECT]\\[BANK_A]\\[BANK_B]"
+        },
+        {
+            "name": "Bank_Statements_MT940_[BANK_A](C)",
+            "src_dir": "C:\\Users\\[USERNAME]\\Desktop\\[PROJECT]\\Bank_Statements_MT940_[BANK_A](C)",
+            "dst_dir": "C:\\Users\\[USERNAME]\\[COMPANY_NAME]\\[DEPARTMENT]\\[PROJECT]\\[BANK_A]\\[BANK_A](C) MT940"
+        },
+        {
+            "name": "Bank_Statements_MT940_[BANK_A](S)",
+            "src_dir": "C:\\Users\\[USERNAME]\\Desktop\\[PROJECT]\\Bank_Statements_MT940_[BANK_A](S)",
+            "dst_dir": "C:\\Users\\[USERNAME]\\[COMPANY_NAME]\\[DEPARTMENT]\\[PROJECT]\\[BANK_A]\\[BANK_A](S) MT940"
+        }
+    ]
+}
