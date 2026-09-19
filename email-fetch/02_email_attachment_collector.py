@@ -33,7 +33,7 @@ outlook = win32com.client.Dispatch("Outlook.Application").GetNamespace("MAPI")
 
 # 02 读取配置文件,可以开发不同业务用途的配置文件
 # 02 Load the configuration file. Different configuration files can be created for different business purposes.
-PROFILES_PATH = Path("profiles_recon.json")
+PROFILES_PATH = Path("profiles.json")
 profiles = json.loads(PROFILES_PATH.read_text(encoding="utf-8"))
 
 # 03 构建 DASL 过滤语句的函数
